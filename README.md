@@ -3,7 +3,7 @@
 
 To run the examples, you need to install phantomJS.  
 
-You can find it [here](www.phantomjs.org),
+You can find it [here](http://phantomjs.org),
 
 or use the **npm wrapper**:  
 
